@@ -2,4 +2,4 @@ gitstudy
 ========
 
 Learn git
-My readme
+My readme is updated

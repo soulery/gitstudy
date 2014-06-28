@@ -1,4 +1,4 @@
 gitstudy
 ========
 
-Learn git from local again for branc:::h
+Learn git from local again for branch for fix12

@@ -1,4 +1,4 @@
 gitstudy
 ========
 
-Learn git
+Learn git from local
